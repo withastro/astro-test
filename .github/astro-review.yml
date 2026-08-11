@@ -3,3 +3,15 @@ trigger:
   label: astro-review
 review:
   skill: .agents/skills/astro-review
+  severity: [critical, high, medium, low]
+  areas:
+    - design
+    - correctness
+    - security
+    - runtime
+    - completeness
+    - error-handling
+    - tests
+    - maintainability
+    - documentation
+    - changeset
