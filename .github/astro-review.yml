@@ -1,0 +1,5 @@
+version: 1
+trigger:
+  label: astro-review
+review:
+  skill: .agents/skills/astro-review
